@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c61e071-a565-4253-8f0f-d07c42cec388" name="Changes" comment="Start">
+    <list default="true" id="8c61e071-a565-4253-8f0f-d07c42cec388" name="Changes" comment="Klar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/JavaProg2/NetworkingServer_Liam",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1746430569538</updated>
       <workItem from="1746430570614" duration="901000" />
-      <workItem from="1747032940897" duration="1040000" />
+      <workItem from="1747032940897" duration="1381000" />
+      <workItem from="1747034997912" duration="347000" />
     </task>
     <task id="LOCAL−00001" summary="Start">
       <option name="closed" value="true" />
@@ -77,7 +78,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1746430946129</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Klar">
+      <option name="closed" value="true" />
+      <created>1747034657885</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1747034657886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start" />
+    <MESSAGE value="Klar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klar" />
   </component>
 </project>
